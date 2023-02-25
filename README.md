@@ -7,7 +7,7 @@ A first step in transoforming energy management in buildings ⚡
 ## ⭐ What's coming?
 • Heat-map generatopr using ESP32 and AMG8833 sensor is a first step to our project in using these heatmaps to recommend optimized configurations for ACMV system and light fittings as the heatmaps represent the activity level of spaces with the people.  
   
-•Our next step involves an extensive collection of heatmaps data to be used in an AI recommendaton model. Stay tuned!🔥
+• Our next step involves an extensive collection of heatmaps data to be used in an AI recommendaton model. Stay tuned!🔥
 
 ## ⚒️ Other applications
 • Healthcare  
