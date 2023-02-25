@@ -13,7 +13,7 @@ A first step in transforming energy management in buildings ⚡
 • TFT_DC 2  
 • TFT_RST 4  
 
-## AMG8833 Thermal Sensory Pin
+## AMG8833 Thermal Sensor Pin
 • Vin 3V3  
 • GND GND  
 • SCL SCL  
