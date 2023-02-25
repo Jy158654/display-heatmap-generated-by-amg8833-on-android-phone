@@ -4,7 +4,7 @@ A first step in transforming energy management in buildings ⚡
 ## 🟠 What is this project about?
 • This project uses **ESP32**, **ST7789 TFT Display**, and **AMG8833 Thermal Sensor** to generate heatmap based on temperature detection of two-dimentional area: 8x8 (64 pixels). It can be run by Arduino IDE.
 
-## ST7789 TFT Display Connection with ESP32
+## ST7789's connections with ESP32
 • Vin 3V3  
 • GND GND  
 • TFT_MOSI 23  
@@ -13,7 +13,7 @@ A first step in transforming energy management in buildings ⚡
 • TFT_DC 2  
 • TFT_RST 4  
 
-## AMG8833 Thermal Sensor Pin Connection with ESP32
+## AMG8833's connections with ESP32
 • Vin 3V3  
 • GND GND  
 • SCL SCL  
