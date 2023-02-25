@@ -20,8 +20,8 @@ A first step in transoforming energy management in buildings ⚡
 • SDA SDA  
 
 ## 📕 Required Libraries
-• TFT_eSPI & TFT_eSPI_Setups (download here and place them in your arduino library folder)  
-• Adafruit_AMG88xx (download from arduino)
+• TFT_eSPI & TFT_eSPI_Setups (refer to this [blog](https://arduino-er.blogspot.com/2020/07/esp32-13-inch-240x240-ips-lcd-st7789.html) to download and modify User_Setup.h inside the library)  
+• Adafruit_AMG88xx (download from Arduino IDE)
 
 ## ⭐ What's coming next?
 • Heat-map generatopr using ESP32 and AMG8833 sensor is a first step to our project in using these heatmaps to recommend optimized configurations for ACMV system and light fittings as the heatmaps represent the activity level of spaces with the people.  
