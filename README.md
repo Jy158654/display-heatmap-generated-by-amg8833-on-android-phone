@@ -15,6 +15,10 @@ A first step in transforming energy management in buildings ⚡
 ## Required libraries for AMG8833
 • Adafruit_AMG88xx (download from Arduino IDE)
 
+## Instruction
+1. Install "ThermoCamera.apk" in ```ThermoCamera/bin``` on your Android phone
+2. Flash the code "ThermoCam_ESP32_Android.ino" in ```ThermoCam_ESP32_Android``` into ESP32
+
 ## ⭐ What's coming next?
 • Generating heatmaps using ESP32 and AMG8833 sensor is a first step to our project in using these heatmaps to recommend optimized configurations for ACMV system and light fittings as the heatmaps represent the activity level of spaces with the people.  
   
