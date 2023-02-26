@@ -2,7 +2,9 @@
 A first step in transforming energy management in buildings ⚡
 
 ## 🟠 What is this project about?
-• This project uses **ESP32**, and **AMG8833 Thermal Sensor** to generate heatmap based on temperature detection of two-dimentional area: 8x8 (64 pixels). The heatmaps are displayed on Android phones. We tried our app on **Android 13** and it has no problem working.
+• This project uses **ESP32**, and **AMG8833 Thermal Sensor** to generate heatmap based on temperature detection of two-dimentional area: 8x8 (64 pixels). The heatmaps are displayed on Android phones.  
+
+• We tried our app on **Android 13** and it has no problem working.
 
 ## AMG8833's connections with ESP32
 • Vin 3V3  
