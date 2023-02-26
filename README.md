@@ -1,4 +1,4 @@
-# display-heatmap-android-phone-generated-by-amg8833
+# display-heatmap-generated-by-amg8833-on-android-phone
 A first step in transforming energy management in buildings ⚡
 
 ## 🟠 What is this project about?
